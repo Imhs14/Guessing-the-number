@@ -19,9 +19,7 @@ The program generates a random number within a specific range (e.g., 1 to 100). 
 ### Prerequisites
 - Python 3.x installed on your machine.
 
-### Installation
-1. **Clone the repository:**
-   ```bash python main.py
+
   git clone [https://github.com/Imhs14/Guessing-the-number.git](https://github.com/Imhs14/Guessing-the-number.git)
 
  🛠️ Built With
